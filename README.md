@@ -6,7 +6,7 @@ Database design for an e-commerce system — from a conceptual ER diagram to a f
 
 Entities and their relationships at a high level.
 
-![Conceptual ER Diagram](erd/conceptual-erd.png)
+![Conceptual ER Diagram](erd/conceptual-erd-diagram.png)
 
 ## Logical ERD
 
